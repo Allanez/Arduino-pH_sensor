@@ -5,7 +5,9 @@ Board Used: Arduino UNO
 Module(s) Used: Industrial Analog pH sensor
 
 ## Industrial Analog pH sensor
+![analog-ph-meter-pro-1 (2)](https://user-images.githubusercontent.com/26400383/125408226-43d94980-e3ed-11eb-84cc-138992c42829.jpg)
 
+## Schematic Diagram
 
 ## Download Arduino Sketch Here
 https://www.arduino.cc/en/Guide
